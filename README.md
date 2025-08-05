@@ -4,6 +4,16 @@ This is a **Java CLI-based CRUD application** that helps manage student records 
 
 ---
 
+## 👩‍💻 Author
+
+**Kambhampati Kavya**
+
+## 📂 GitHub Repository
+
+🔗 [StudentRecordSystem – GitHub Link](https://github.com/kavyakambhampati/StudentRecordSystem/tree/main)
+
+---
+
 ## 📌 Project Objective
 
 To build a simple Command-Line Interface (CLI) system for adding, viewing, updating, and deleting student records using Java.
@@ -25,7 +35,7 @@ To build a simple Command-Line Interface (CLI) system for adding, viewing, updat
 - Encapsulation using private variables and getters/setters
 - Java Collections (`ArrayList`)
 - Loops and conditional statements
-- Constructor overloading (if added)
+- Constructor overloading (optional)
 - CLI-based input/output operations
 
 ---
@@ -47,8 +57,3 @@ To build a simple Command-Line Interface (CLI) system for adding, viewing, updat
 ```bash
 cd path/to/StudentRecordSystem
 
-👩‍💻 Author
-Kambhampati Kavya
-
-📂 Repository Link
-👉 https://github.com/kavyakambhampati/StudentRecordSystem/tree/main
