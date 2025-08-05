@@ -50,6 +50,12 @@ To build a simple Command-Line Interface (CLI) system for adding, viewing, updat
 
 ---
 
+## 📸 Screenshot
+
+![Student Record System Screenshot](sc.png)
+
+
+
 ## ▶️ How to Run the Program
 
 1. Open your terminal and navigate to the project folder:
